@@ -1,0 +1,15 @@
+.bar:hover {
+  fill: brown;
+}
+
+.chart {
+  width: 100vw;
+}
+
+#container {
+  position: relative;
+}
+
+#tooltip {
+  position: absolute;
+}
